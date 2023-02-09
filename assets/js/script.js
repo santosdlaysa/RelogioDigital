@@ -18,7 +18,6 @@ const relogio = setInterval(function time() {
     let mn = dateToday.getMonth() + 1;
     let yr = dateToday.getFullYear();
 
-
     if (hr < 10) hr = '0' + hr;
 
     if (min < 10) min = '0' + min;
