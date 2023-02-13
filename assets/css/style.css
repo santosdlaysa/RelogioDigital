@@ -75,7 +75,7 @@ p {
     letter-spacing: 3px;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 600px) {
     .relogio {
         width: 90vw;
         height: 25vh;
@@ -96,7 +96,7 @@ p {
 
     .Diadasemana {
         font-size: 15px;
-        width: 60vw;
+        width: 95vw;
         height: 5vh;
     }
 
