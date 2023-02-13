@@ -73,3 +73,16 @@ p {
     margin-bottom: 50px;
     letter-spacing: 3px;
 }
+
+@media screen and (max-width: 600px) {
+    .relogio {
+        width: 300px;
+    }
+}
+    
+@media screen and (max-width: 400px) {
+    .relogio {
+        width: 250px;
+    }
+}
+    
