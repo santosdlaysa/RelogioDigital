@@ -76,13 +76,70 @@ p {
 
 @media screen and (max-width: 600px) {
     .relogio {
-        width: 300px;
+        width: 350px;
+        height: 150px;
     }
+
+    .relogio div {
+        width: 100vw;
+        height: 20vw;
+    }
+
+    .relogio span {
+        font-size: 40px;
+
+    }
+
+    .relogio span.tempo {
+        font-size: 8px;
+
+    }
+
+    p {
+        font-size: 15px;
+
+    }
+
+    .Diadasemana {
+        font-size: 15px;
+    }
+
+    .text {
+        font-size: 25px;
+    }
+
 }
     
 @media screen and (max-width: 400px) {
     .relogio {
         width: 250px;
     }
+
+    .relogio div {
+        width: 100px;
+    }
+
+    .relogio span {
+        font-size: 40px;
+    }
+
+    .relogio span.tempo {
+        font-size: 8px;
+    }
+
+    p {
+        font-size: 15px;
+    }
+    
+    .Diadasemana {
+        font-size: 15px;
+    }
+
+    .text {
+        font-size: 25px;
+    }
+
+
+
 }
     
