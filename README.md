@@ -2,4 +2,4 @@
 
 Projeto de Estudo -  Desenvolver um relógio digital com Javascript
 
-<img src="/relogiojs.png" alt="Relogio">
+<img src="./relogiojs.PNG" alt="Relogio">
